@@ -198,7 +198,7 @@ html{
 @media screen and (max-width: 768px){
     .nav{
         display: flex;
-
+        flex-wrap: wrap;
         justify-content: space-between;
         align-items: center;
         padding: 0;
@@ -207,7 +207,7 @@ html{
         
     }
     .nav-items{
-        font-size: 15px;
+        font-size: 12px;
     }
     .nav-links{
         gap: 13px;
