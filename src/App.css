@@ -198,7 +198,7 @@ html{
 @media screen and (max-width: 768px){
     .nav{
         display: flex;
-        flex-wrap: wrap;
+
         justify-content: space-between;
         align-items: center;
         padding: 0;
@@ -213,7 +213,7 @@ html{
         gap: 13px;
     }
     .dp, .btn{
-    font-size: 17px;
+    font-size: 19px;
      order: 2;
      
      
